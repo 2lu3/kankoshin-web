@@ -112,8 +112,6 @@ export default function Home() {
                         </tbody>
                     </table>
                 </div>
-            </div>
-            <div className="p-4">
                 <h1>ファール王</h1>
                 <div className="overflow-x-auto">
                     <table className="table">
