@@ -16,7 +16,6 @@ export default function Home() {
                                 <th>得点</th>
                             </tr>
                         </thead>
-
                         <tbody>
                             <tr>
                                 <th> 1 </th>
@@ -32,81 +31,81 @@ export default function Home() {
                             </tr>
                             <tr>
                                 <th> 3 </th>
+                                <td> 信州 </td>
+                                <td> 13 </td>
+                                <td> 69 </td>
+                            </tr>
+                            <tr>
+                                <th> 4 </th>
+                                <td> 信州 </td>
+                                <td> 8 </td>
+                                <td> 67 </td>
+                            </tr>
+                            <tr>
+                                <th> 5 </th>
+                                <td> 信州 </td>
+                                <td> 6 </td>
+                                <td> 66 </td>
+                            </tr>
+                            <tr>
+                                <th> 6 </th>
                                 <td> 東京 </td>
                                 <td> 35 </td>
                                 <td> 62 </td>
                             </tr>
                             <tr>
-                                <th> 4 </th>
-                                <td> 信州 </td>
+                                <th> 7 </th>
+                                <td> 千葉 </td>
                                 <td> 6 </td>
-                                <td> 62 </td>
+                                <td> 61 </td>
                             </tr>
                             <tr>
-                                <th> 5 </th>
-                                <td> 信州 </td>
-                                <td> 13 </td>
-                                <td> 54 </td>
-                            </tr>
-                            <tr>
-                                <th> 6 </th>
+                                <th> 8 </th>
                                 <td> 医科歯科 </td>
                                 <td> 34 </td>
                                 <td> 51 </td>
                             </tr>
                             <tr>
-                                <th> 7 </th>
+                                <th> 9 </th>
                                 <td> 医科歯科 </td>
                                 <td> 11 </td>
                                 <td> 47 </td>
                             </tr>
                             <tr>
-                                <th> 8 </th>
+                                <th> 10 </th>
                                 <td> 医科歯科 </td>
                                 <td> 21 </td>
                                 <td> 45 </td>
                             </tr>
                             <tr>
-                                <th> 9 </th>
+                                <th> 11 </th>
                                 <td> 東京 </td>
                                 <td> 64 </td>
                                 <td> 44 </td>
                             </tr>
                             <tr>
-                                <th> 10 </th>
+                                <th> 12 </th>
                                 <td> 群馬 </td>
                                 <td> 11 </td>
                                 <td> 43 </td>
                             </tr>
                             <tr>
-                                <th> 11 </th>
+                                <th> 13 </th>
                                 <td> 医科歯科 </td>
                                 <td> 3 </td>
                                 <td> 43 </td>
                             </tr>
                             <tr>
-                                <th> 12 </th>
+                                <th> 14 </th>
                                 <td> 群馬 </td>
                                 <td> 97 </td>
                                 <td> 42 </td>
                             </tr>
                             <tr>
-                                <th> 13 </th>
+                                <th> 15 </th>
                                 <td> 東京 </td>
                                 <td> 31 </td>
                                 <td> 42 </td>
-                            </tr>
-                            <tr>
-                                <th> 14 </th>
-                                <td> 横市 </td>
-                                <td> 4 </td>
-                                <td> 40 </td>
-                            </tr>
-                            <tr>
-                                <th> 15 </th>
-                                <td> 横市 </td>
-                                <td> 10 </td>
-                                <td> 40 </td>
                             </tr>
                         </tbody>
                     </table>
