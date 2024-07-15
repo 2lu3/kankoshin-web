@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function Home() {
     return (
-        <div className="container mx-auto px-4 flex justify-center">
+        <div className="container mx-auto px-4 flex justify-center bg-base-100">
             <h1>得点王</h1>
             <div className="overflow-x-auto">
                 <table className="table">
