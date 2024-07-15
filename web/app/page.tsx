@@ -4,9 +4,8 @@ export default function Home() {
     return (
         <div className="container mx-auto flex justify-center text-center bg-base-100 prose p-8">
             <div className="p-4">
-
                 <h1>得点王</h1>
-                <div className="overflow-x-auto">
+                <div className="overflow-x-auto py-10">
                     <table className="table">
                         {/* head */}
                         <thead>
@@ -113,7 +112,7 @@ export default function Home() {
                     </table>
                 </div>
                 <h1>ファール王</h1>
-                <div className="overflow-x-auto">
+                <div className="overflow-x-auto py-10">
                     <table className="table">
                         {/* head */}
                         <thead>
